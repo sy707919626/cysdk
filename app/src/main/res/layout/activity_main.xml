@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="登录"/>
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="退出登录"/>
+
+    <Button
+        android:id="@+id/enter_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="进入游戏"/>
+
+    <Button
+        android:id="@+id/update_gameInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="修改游戏信息"/>
+
+    <Button
+        android:id="@+id/Exit_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="退出游戏"/>
+    <Button
+        android:id="@+id/pay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="支付商品"/>
+    <Button
+        android:id="@+id/get_gameInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="获取用户信息"/>
+
+</LinearLayout>

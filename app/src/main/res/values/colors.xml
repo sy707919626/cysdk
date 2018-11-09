@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbarBG">#22A4FF</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="btn_blue">#22A4FF</color>
+    <color name="btn_hui">#dbdbdb</color>
+
+    <color name="color_9c">#C9C9C9</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="red">#FF0000</color>
+
+    <!--字体颜色-->
+    <color name="text_bule">#22A4FF</color>
+    <color name="text_black">#333333</color>
+</resources>
